@@ -9,3 +9,5 @@ def fizzbuzz(num)
     return nil 
   end
 end
+
+puts fizzbuzz(15)
